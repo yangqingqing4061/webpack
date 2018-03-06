@@ -1,0 +1,10 @@
+@font-face{
+    font-family: 'myFont';
+    src:url('./CandyTime.ttf');
+    font-weight:600;
+}
+.hello{
+    font-family:'myFont';
+    color: red;
+    background: url('./icon.png')
+}
